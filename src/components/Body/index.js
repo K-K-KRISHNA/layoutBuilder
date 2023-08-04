@@ -2,6 +2,8 @@ import ConfigurationContext from '../../context/ConfigurationContext'
 
 import './index.css'
 
+// just for commit purpose
+
 const Body = () => (
   <ConfigurationContext.Consumer>
     {value => {
